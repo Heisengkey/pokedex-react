@@ -1,0 +1,26 @@
+{
+  "name": "pokedex-react",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/react": "^3.0.0",
+    "@types/react": "^18.2.21",
+    "@types/react-dom": "^18.2.7",
+    "astro": "^3.0.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-query": "^3.39.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/parser": "^6.5.0",
+    "eslint": "^8.48.0",
+    "eslint-plugin-astro": "^0.29.0"
+  }
+}
